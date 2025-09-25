@@ -4,7 +4,7 @@ Arm Future Skills is a resource hub designed to help young people (ages 14–19)
 
 This repository is a living resource: content will be developed and added over time, so check back regularly for new materials, activities, and examples.
 
-##Inclusive Language Commitment 
+## Inclusive Language Commitment 
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
 
 Arm is working actively with our partners, standards bodies, and the wider ecosystem to adopt a consistent approach to the use of inclusive language and to eradicate and replace offensive terms. We recognise that this will take time. 
