@@ -1,5 +1,4 @@
-# arm-future-skills
-Your pathway to the skills that power tomorrow’s technology.
+# Arm Future Skills
 
 Arm Future Skills is a resource hub designed to help young people (ages 14–19) build the knowledge, skills, and experiences needed for a successful career in technology. Whether you’re just starting your journey or already creating projects, you’ll find guidance and activities that highlight the key skills engineers and innovators at Arm use every day—problem-solving, collaboration, adaptability, AI, and leadership.
 
