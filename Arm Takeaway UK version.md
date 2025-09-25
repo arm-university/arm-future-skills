@@ -32,17 +32,17 @@ advantage of the many opportunities to learn. The more you build and
 reflect, the stronger your foundation will be when stepping into
 university, apprenticeships, internships, or your first full-time role.
 
-This isn’t just about technical ability – it’s about becoming the kind
+This isn’t just about technical ability—it’s about becoming the kind
 of engineer or innovator who can adapt, collaborate, and make a positive
 impact on the world through technology.
 
 # Skill: Problem-Solving with Technology
 
-Why it matters:  
-Arm designs the brains of billions of devices — solving problems from
+### Why it matters:  
+Arm designs the brains of billions of devices—solving problems from
 energy efficiency to enabling AI.
 
-Evidence this skill by being able to say you have:  
+### Evidence this skill by being able to say you have:  
 “Applied structured thinking to solve a technical or real-world
 problem.”
 
@@ -50,7 +50,7 @@ For example, be able to say that you have:
 “Used a micro:bit to collect environmental data and analysed results to
 suggest solutions.”
 
-How to Develop Yourself and Get Ahead of the Pack:
+### How to Develop Yourself and Get Ahead of the Pack:
 
 - Build small coding projects (Python, C) on Arm-based boards
   (micro:bit, Raspberry Pi, Arduino).
@@ -65,27 +65,27 @@ How to Develop Yourself and Get Ahead of the Pack:
 What to read or watch from Arm and Arm partners:
 
 - [Arm School Program
-  resources](https://www.arm.com/resources/education/schools) , in
+  resources](https://www.arm.com/resources/education/schools), in
   particular the two online courses:
 
-- [Introduction to
+  - [Introduction to
   Microprocessors](https://www.coursera.org/learn/arm-education-introduction-to-microprocessors)
 
-- [Introduction to
+  - [Introduction to
   AI](https://www.edx.org/learn/computer-science/arm-education-introduction-to-ai)
 
-  Additional materials:
+Additional materials:
 
 - [The Pragmatic Programmer by Hunt &
   Thomas](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 
 # Skill: Digital Collaboration & Global Teamwork
 
-Why it matters:  
-Arm’s engineers work with partners worldwide — collaboration across
+### Why it matters:  
+Arm’s engineers work with partners worldwide—collaboration across
 cultures drives innovation.
 
-Evidence this skill by being able to say you have:  
+### Evidence this skill by being able to say you have:  
 “Contributed effectively to a group project, using digital tools to stay
 organised.”
 
@@ -93,7 +93,7 @@ For example, be able to say that you have:
 “Worked with classmates in different time zones to deliver a coding
 project.”
 
-How to Develop Yourself and Get Ahead of the Pack:
+### How to Develop Yourself and Get Ahead of the Pack:
 
 - Join online hackathons or GitHub projects.
 
@@ -101,7 +101,7 @@ How to Develop Yourself and Get Ahead of the Pack:
 
 - Pair-program or peer review code with classmates.
 
-What to read or watch from Arm and Arm partners:
+### What to read or watch from Arm and Arm partners:
 
 - [How open-source collaboration works (Linux Foundation
   videos)](https://www.youtube.com/user/TheLinuxFoundation)
@@ -109,24 +109,24 @@ What to read or watch from Arm and Arm partners:
 - [Arm & partners’ case studies on global
   projects](https://www.arm.com/company/success-library)
 
-  Additional materials:
+Additional materials:
 
 - [Team Topologies by Skelton &
   Pais](https://itrevolution.com/product/team-topologies/)
 
 # Skill: Adaptability & Continuous Learning
 
-Why it matters:  
-Technology changes fast— Arm engineers constantly learn new skills and
+### Why it matters:  
+Technology changes fast—Arm engineers constantly learn new skills and
 adapt to new markets.
 
-Evidence this skill by being able to say you have:  
+### Evidence this skill by being able to say you have:  
 “Learned and applied a new tool quickly to complete a task.”
 
 For example, be able to say that you have:  
 “Taught myself TensorFlow basics to build a simple image classifier.”
 
-How to Develop Yourself and Get Ahead of the Pack:
+### How to Develop Yourself and Get Ahead of the Pack:
 
 - Try out new coding languages or frameworks every few months.
 
@@ -137,12 +137,12 @@ How to Develop Yourself and Get Ahead of the Pack:
 
 - Take part in coding competitions with unfamiliar problem sets.
 
-What to read or watch from Arm and Arm partners:
+### What to read or watch from Arm and Arm partners:
 
 - [Arm YouTube: How Arm designs the future of
   computing](https://www.youtube.com/watch?v=r8b803WrEck)
 
-  Additional materials:
+Additional materials:
 
 - [Range by David
   Epstein](https://en.wikipedia.org/wiki/Range:_Why_Generalists_Triumph_in_a_Specialized_World)
@@ -151,18 +151,18 @@ What to read or watch from Arm and Arm partners:
 
 # Skill: AI & Data Literacy
 
-Why it matters:  
+### Why it matters:  
 From smartphones to self-driving cars, Arm technology powers AI at the
 edge. Understanding data and AI is now essential.
 
-Evidence this skill by being able to say you have:  
+### Evidence this skill by being able to say you have:  
 “Collected and analysed data to produce useful insights.”
 
 For example, be able to say that you have:  
 “Used CreateAI on the micro:bit to train a gesture recognition model and
 applied it in a project.”
 
-How to Develop Yourself and Get Ahead of the Pack:
+### How to Develop Yourself and Get Ahead of the Pack:
 
 - Train small ML models with tools like Teachable Machine or Edge
   Impulse.
@@ -172,30 +172,30 @@ How to Develop Yourself and Get Ahead of the Pack:
 - Explore how AI is used in healthcare, sustainability, and
   accessibility.
 
-What to read or watch from Arm and Arm partners:
+### What to read or watch from Arm and Arm partners:
 
 - Complete the [Introduction to
   AI](https://www.edx.org/learn/computer-science/arm-education-introduction-to-ai)
   online course by Arm Education
 
-  Additional materials:
+Additional materials:
 
 - [Hello World by Hannah
   Fry](https://en.wikipedia.org/wiki/Hello_World:_How_to_be_Human_in_the_Age_of_the_Machine)
 
 # Skill: Sustainability & Responsible Tech
 
-Why it matters:  
+### Why it matters:  
 Arm processors are designed for maximum energy efficiency — sustainable
 computing enables a greener world.
 
-Evidence this skill by being able to say you have:  
+### Evidence this skill by being able to say you have:  
 “Considered environmental or ethical impacts in a project.”
 
 For example, be able to say that you have:  
 “Designed a water monitoring system that helps reduce waste.”
 
-How to Develop Yourself and Get Ahead of the Pack:
+### How to Develop Yourself and Get Ahead of the Pack:
 
 - Enter competitions with a sustainability focus (e.g. [UN
   SDGs](https://sdgs.un.org/goals)).
@@ -204,30 +204,30 @@ How to Develop Yourself and Get Ahead of the Pack:
 
 - Debate ethics of AI and tech in class or clubs.
 
-What to read or watch from Arm and Arm partners:
+### What to read or watch from Arm and Arm partners:
 
 - [Arm’s Net Zero strategy & sustainability
   reports](https://www.google.com/search?client=safari&rls=en&q=%E2%80%A2+Arm%E2%80%99s+Net+Zero+strategy+%26+sustainability+reports&ie=UTF-8&oe=UTF-8)
 
-  Additional materials:
+Additional materials:
 
 - [Sustainable Energy – Without the Hot Air by David
   MacKay](https://impactmap.cam.ac.uk/sustainable-energy-without-the-hot-air-and-a-global-calculator-for-energy-policy/)
 
 # Skill: Leadership & Initiative
 
-Why it matters:  
-Leaders at Arm are not just managers — they’re innovators who take
+### Why it matters:  
+Leaders at Arm are not just managers—they’re innovators who take
 initiative and guide others.
 
-Evidence this skill by being able to say you have:  
+### Evidence this skill by being able to say you have:  
 “Led a group or initiative to achieve a technical or creative outcome.”
 
 For example, be able to say that you have:  
 “Organised a coding club at school and introduced peers to micro:bit
 projects.”
 
-How to Develop Yourself and Get Ahead of the Pack:
+### How to Develop Yourself and Get Ahead of the Pack:
 
 - Volunteer as project/team lead in group tasks.
 
@@ -235,7 +235,7 @@ How to Develop Yourself and Get Ahead of the Pack:
 
 - Start your own small project or competition team.
 
-What to read or watch from Arm and Arm partners:
+### What to read or watch from Arm and Arm partners:
 
 - [Arm Innovator Series
   (YouTube)](https://www.youtube.com/playlist?list=PLgyFKd2HIZla_IYP0uomlY1QQ21ZNCZGd)
@@ -243,16 +243,16 @@ What to read or watch from Arm and Arm partners:
 - [Stories from the Arm Developer
   Community](https://developer.arm.com/community)
 
-  Additional materials:
+Additional materials:
 
 - Leaders Eat Last by [Simon
   Sinek](https://en.wikipedia.org/wiki/Simon_Sinek)
 
 # Skill: Business and Innovation
 
-**Why it matters:**
+### Why it matters:
 
-Great engineers don’t just come up with ideas — they know how to turn
+Great engineers don’t just come up with ideas—they know how to turn
 them into impact. At Arm, engineers combine technical know-how with
 business thinking, guiding teams, spotting opportunities, and shaping
 solutions that make a difference.
@@ -262,7 +262,7 @@ Evidence this skill by being able to say:
 “I helped my team successfully pitch a project idea at a local
 hackathon.”
 
-How to Develop Yourself and Get Ahead of the Pack:
+### How to Develop Yourself and Get Ahead of the Pack:
 
 - Explore how technology ideas move from concept to prototype to
   real-world product.
@@ -270,12 +270,12 @@ How to Develop Yourself and Get Ahead of the Pack:
 - Team up with friends to design a mini business plan around a
   technology project idea.
 
-What to read or watch from Arm and Arm partners:
+### What to read or watch from Arm and Arm partners:
 
 - [Business Models for Technology Developers (online
   course)](https://www.edx.org/learn/business-model/arm-education-business-models-for-technology-innovators)
 
-- Want to see how world-changing ideas get started? Check out these
+Want to see how world-changing ideas get started? Check out these
   conversations with pioneers who blended vision, leadership, and
   innovation to create lasting impact:
 
@@ -296,7 +296,7 @@ What to read or watch from Arm and Arm partners:
   technology phenomenon, Keith
   Clarke](https://www.amazon.co.uk/Culture-Won-propelled-technology-phenomenon/dp/1803811420)
 
-  Additional materials:
+Additional materials:
 
 <!-- -->
 
@@ -380,3 +380,4 @@ available in Cambridge, Sheffield, and Manchester. We offer Level 4 to
 Level 6 apprenticeships, where you can work towards a full degree while
 gaining 80% on-the-job training and 20% academic study. Recruitment
 opens in early 2026, with start dates in September 2026.
+
