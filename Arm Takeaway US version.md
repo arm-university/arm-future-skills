@@ -388,10 +388,11 @@ in technical and business roles. You’ll work alongside industry experts,
 contribute to meaningful projects, and build the foundations of your
 future career.
 
-**Early Careers & Graduate Opportunities**
+**Graduate Opportunities**
 
 Full-time opportunities for new graduates in both hardware and software
 engineering. With structured onboarding, mentorship, and global project
 experience, you’ll be supported in developing both your technical and
 professional skills.
+
 
