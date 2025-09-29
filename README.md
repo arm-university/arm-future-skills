@@ -10,10 +10,10 @@ It’s not just technical ability; it’s about becoming an adaptable, collabora
 
 ## Purpose of the Documents
 This repository contains documents and frameworks that are:
-* Jurisdiction-Specific: Files are organized by or refer to specific geographical jurisdictions, such as national or regional education systems. This enables alignment with local curricula, organisations, and industry needs
-* Cross-Curricular: While many materials are designed for computing education, others intersect with STEM, engineering, and emerging interdisciplinary areas
+- organized by, or refer to, specific geographical jurisdictions, such as national or regional education systems. This enables alignment with local curricula, organizations, and industry needs,
+- cross-curricular, intersecting with STEM, engineering, and emerging interdisciplinary areas.
 
-This repository is a living resource: content will be developed and added over time, so check back regularly for new materials, activities, and examples
+This repository is a living resource: content will be developed and added over time, so check back regularly for new materials, activities, and examples.
 
 ## How to Use This Repository
 Use this content as both a checklist and a launchpad: check off skills you can already evidence and pick out areas where you want to grow. Try small projects, get involved in communities, and take advantage of the many opportunities to learn. The more you build and reflect, the stronger your foundation will be.
